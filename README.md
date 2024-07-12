@@ -3,7 +3,7 @@
 I'm Joselin, a Computer Science student at University of Indonesia with a keen interest in software development. Constantly exploring new technologies and upgrading my skills 🚀✨
 
 - 🌱 I’m currently learning about Android Development using Kotlin
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/joselin-permata/) or [Email](https://mail.google.com/mail/u/joselinprmt@gmail.com/#compose)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/joselin-permata/) or [Email](mailto:joselinprmt@gmail.com)
 - 😄 Pronouns: She/her
 
 ### Tech Stacks
