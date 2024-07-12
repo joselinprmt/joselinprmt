@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**joselinprmt/joselinprmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Joselin, a Computer Science student at University of Indonesia with a keen interest in software development. Constantly exploring new technologies and upgrading my skills 🚀✨
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning about Android Development using Kotlin
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/joselin-permata/) or [Email](https://mail.google.com/mail/u/joselinprmt@gmail.com/#compose)
+- 😄 Pronouns: She/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stacks
+<a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" /></a>
+<a href="#"><img align="left" alt="Django" title="Django" width="21px" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" /></a>
+<a href="#"><img align="left" alt="Java" title="Java" width="21px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" /></a>
+<a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" /></a>
+<a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+<a href="#"><img align="left" alt="Postgresql" title="Postgresql" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" /></a>
+<br>
+
+### Statistics
+<p align="left">
+<a href="https://github.com/joselinprmt">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joselinprmt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joselinprmt&layout=compact&theme=algolia"/>
+</a>
+</p>
