@@ -8,7 +8,7 @@ I'm Joselin, a Computer Science student at University of Indonesia with a keen i
 
 ### Tech Stacks
 <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" /></a>
-<a href="#"><img align="left" alt="Django" title="Django" width="21px" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" /></a>
+<a href="#"><img align="left" alt="Django" title="Django" width="21px" src="https://www.svgrepo.com/show/353657/django-icon.svg" /></a>
 <a href="#"><img align="left" alt="Java" title="Java" width="21px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" /></a>
 <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" /></a>
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
