@@ -19,9 +19,9 @@ I'm Joselin, a Computer Science student at University of Indonesia with a keen i
 </p>
 
 ### Statistics
-<div align="left" style="display: flex;">
-  <a href="https://github.com/joselinprmt">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joselinprmt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joselinprmt&layout=compact&theme=algolia"/>
-  </a>
-</div>
+<a href="https://github.com/joselinprmt/">
+  <img height=200 align="center" src="https://github-readme-stats-joselinprmt.vercel.app/api?username=joselinprmt&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" />
+</a>
+<a href="https://github.com/joselinprmt/">
+  <img height=200 align="center" src="https://github-readme-stats-joselinprmt.vercel.app/api/top-langs?username=joselinprmt&layout=compact&langs_count=8&&theme=tokyonight&card_width=320" />
+</a>
